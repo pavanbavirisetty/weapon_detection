@@ -4,4 +4,7 @@ output.avi
 static/*
 Dataset/*
 data.yml
-runs/*
+runs/val/*
+runs/detect/val2/
+runs/detect/val/
+runs/detect/yolov8m_v8_50e2/

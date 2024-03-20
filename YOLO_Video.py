@@ -14,6 +14,7 @@ def video_detection(path_x):
 
     model=YOLO("runs\\detect\\yolov8m_v8_50e\\weights\\best.pt")
     classNames = ['weapon']
+    
     while True:
         success, img = cap.read()
         results=model(img,stream=True)
