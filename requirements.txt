@@ -3,5 +3,3 @@ Flask
 Flask_WTF 
 ultralytics
 keyboard
-# mesa-utils==8.4.0
-#PyOpenGL
